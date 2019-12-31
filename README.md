@@ -1,5 +1,5 @@
 # ny_rubiks
-Maya script to have a funtional Rubik's Cube rig
+Maya tool to have a funtional Rubik's Cube rig
 
 Paste the .py file to your "Users*\Documents\maya*\scripts" folder. Open the example scene and run the python script below:
 
